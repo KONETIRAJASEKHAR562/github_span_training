@@ -1,0 +1,1 @@
+"two files creating command by echo file3" 
