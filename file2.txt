@@ -1,1 +1,3 @@
 "my demofile for to add command"
+"text3"
+"Hello, My name is git"
